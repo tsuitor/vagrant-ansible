@@ -12,3 +12,4 @@
   file: 
     src=/etc/apache2/sites-available/vagrant.conf 
     dest=/etc/apache2/sites-enabled/vagrant.conf state=link
+    
